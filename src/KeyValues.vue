@@ -11,15 +11,13 @@ export default {
 </script>
 
 <style lang="stylus">
-@import '../styles/variables.styl'
-
 .ni-kvs
   display flex
   flex-flow column
   justify-content center
 
   padding 0.5rem 0
-  background c-app-fg
+  background #fff
 
   .ni-kv
     flex 1

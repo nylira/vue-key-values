@@ -14,7 +14,6 @@ export default {
 </script>
 
 <style lang="stylus">
-@import '../styles/variables.styl'
 
 .ni-kv
   display flex
@@ -34,7 +33,7 @@ export default {
   font-weight 400
 
 .ni-kv-key
-  color light
+  color #999
   font-size 0.75rem
   font-weight 400
   line-height 1
